@@ -1,0 +1,9 @@
+node_modules
+logs
+/tmp
+.idea
+.DS_Store
+tsconfig.tsbuildinfo
+.history
+.next
+dist
